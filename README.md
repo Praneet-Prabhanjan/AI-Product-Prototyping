@@ -16,3 +16,4 @@ Early intervention, individualized treatment plans, and better patient outcomes 
 
 **Pl refer to the document titled - NeurOmicXPert attached for more insights.**
 
+If you came across this project and are interested in contributing/collaborating, PLEASE send an email to prabhanjan847@gmail.com with a detailed plan of action
